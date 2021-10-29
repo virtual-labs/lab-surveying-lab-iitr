@@ -1,72 +1,77 @@
 {
-    "broadArea": {
-        "name": "Civil Engineering",
-        "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Surveying Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IITR",
+  "baseUrl": "sl-iitr.vlabs.ac.in",
+  "introduction": "The interactive experiments of Surveying Lab offers students supplemental experience in fundamental land surveying measurement methods for surveying courses.",
+  "experiments": [
+    {
+      "name": "Study of various parts of Auto Level",
+      "short-name": "auto-level",
+      "repo": "https://github.com/virtual-labs/exp-auto-level-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "lab": "Surveying Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IITR",
-    "baseUrl": "sl-iitr.vlabs.ac.in",
-    "introduction": "The interactive experiments of Surveying Lab offers students supplemental experience in fundamental land surveying measurement methods for surveying courses.",
-    "experiments": [
-                {
-                    "name": "Study of various parts of Auto Level",
-                    "short-name": "auto-level",
-                    "repo": "https://github.com/virtual-labs/exp-auto-level-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                },
-                {
-                    "name": "Study of Plane Table and its Accessories",
-                    "short-name": "plane-table",
-                    "repo": "https://github.com/virtual-labs/exp-plane-table-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                },
-                {
-                    "name": "Detail Plotting by Radiation Method",
-                    "short-name": "radiation-method",
-                    "repo": "https://github.com/virtual-labs/exp-radiation-method-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                },
-                {
-                    "name": "Detail Plotting by Intersection Method",
-                    "short-name": "intersection-method",
-                    "repo": "https://github.com/virtual-labs/exp-intersection-method-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                },
-                {
-                    "name": "Carry out Contouring in the field",
-                    "short-name": "contouring",
-                    "repo": "https://github.com/virtual-labs/exp-contouring-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                },
-                {
-                    "name": "Study of Global Positioning System (GPS) and its Accessories",
-                    "short-name": "study-of-gps",
-                    "repo": "https://github.com/virtual-labs/exp-study-of-gps-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                },
-                {
-                    "name": "Observations using GPS",
-                    "short-name": "observations-using-gps",
-                    "repo": "https://github.com/virtual-labs/exp-observations-using-gps-iitr",
-                    "tag": "v1.0.0",
-                    "deploy": true
-                }
-                   ],
-    "targetAudience": {
-        "UG": ["UG, B.Tech Civil Engineering Students"],
-        "PG": ["Ph.D./Research Scholars"]
+    {
+      "name": "Study of Plane Table and its Accessories",
+      "short-name": "plane-table",
+      "repo": "https://github.com/virtual-labs/exp-plane-table-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "The objective of surveying laboratory is to make students familiar and competent enough to draw maps on a suitable scale by using different surveying instruments like total station, theodolite, auto level, global positioning system (GPS), plane table, compass, etc. Students learn to survey from conventional as well as contemporary methods and technology. Our Surveying labs provide students with hands-on experience using common surveying equipment.",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["The present lab is aligned with courses of Surveying Lab. These experiments are mostly covered in the curriculam."]
+    {
+      "name": "Detail Plotting by Radiation Method",
+      "short-name": "radiation-method",
+      "repo": "https://github.com/virtual-labs/exp-radiation-method-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Detail Plotting by Intersection Method",
+      "short-name": "intersection-method",
+      "repo": "https://github.com/virtual-labs/exp-intersection-method-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Carry out Contouring in the field",
+      "short-name": "contouring",
+      "repo": "https://github.com/virtual-labs/exp-contouring-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Study of Global Positioning System (GPS) and its Accessories",
+      "short-name": "study-of-gps",
+      "repo": "https://github.com/virtual-labs/exp-study-of-gps-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Observations using GPS",
+      "short-name": "observations-using-gps",
+      "repo": "https://github.com/virtual-labs/exp-observations-using-gps-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["UG, B.Tech Civil Engineering Students"],
+    "PG": ["Ph.D./Research Scholars"]
+  },
+  "objective": "The objective of surveying laboratory is to make students familiar and competent enough to draw maps on a suitable scale by using different surveying instruments like total station, theodolite, auto level, global positioning system (GPS), plane table, compass, etc. Students learn to survey from conventional as well as contemporary methods and technology. Our Surveying labs provide students with hands-on experience using common surveying equipment.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "The present lab is aligned with courses of Surveying Lab. These experiments are mostly covered in the curriculam."
+    ]
+  },
+  "exp_name": "Observations using GPS",
+  "exp_short_name": "observations-using-gps",
+  "version": "v0.1.0"
 }
