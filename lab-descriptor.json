@@ -58,6 +58,20 @@
       "repo": "https://github.com/virtual-labs/exp-observations-using-gps-iitr",
       "tag": "v1.0.1",
       "deploy": true
+    },
+    {
+      "name": "Observations of vertical and horizontal angles using total station (Total station)",
+      "short-name": "exp-total-station-iitr",
+      "repo": "https://github.com/virtual-labs/exp-total-station-iitr/",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "To find out elevations of various points on the ground using auto-level by Profile Levelling method",
+      "short-name": "exp-profile-levelling-method-iitr",
+      "repo": "https://github.com/virtual-labs/exp-profile-levelling-method-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
@@ -71,7 +85,7 @@
       "The present lab is aligned with courses of Surveying Lab. These experiments are mostly covered in the curriculam."
     ]
   },
-  "exp_name": "Observations using GPS",
-  "exp_short_name": "observations-using-gps",
-  "version": "v0.4.0"
+  "exp_name": "To find out elevations of various points on the ground using auto-level by Profile Levelling method",
+  "exp_short_name": "exp-profile-levelling-method-iitr",
+  "version": "v0.5.0"
 }
