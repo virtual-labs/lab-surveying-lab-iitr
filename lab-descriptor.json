@@ -72,6 +72,13 @@
       "repo": "https://github.com/virtual-labs/exp-profile-levelling-method-iitr",
       "tag": "v1.0.0",
       "deploy": true
+    },
+    {
+      "name": "To find out elevations of various points on the ground using auto level (Fly Level)",
+      "short-name": "exp-fly-level-iitr",
+      "repo": "https://github.com/virtual-labs/exp-fly-level-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
@@ -85,7 +92,7 @@
       "The present lab is aligned with courses of Surveying Lab. These experiments are mostly covered in the curriculam."
     ]
   },
-  "exp_name": "To find out elevations of various points on the ground using auto-level by Profile Levelling method",
-  "exp_short_name": "exp-profile-levelling-method-iitr",
-  "version": "v0.5.0"
+  "exp_name": "To find out elevations of various points on the ground using auto level (Fly Level)",
+  "exp_short_name": "exp-fly-level-iitr",
+  "version": "v0.6.0"
 }
