@@ -4,7 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Surveying Lab",
-  "lab_display_name": "Surveying Lab", 
+  "lab_display_name": "Surveying Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IITR",
@@ -100,7 +100,7 @@
       "The present lab is aligned with courses of Surveying Lab. These experiments are mostly covered in the curriculam."
     ]
   },
-  "exp_name": "To find out elevations of various points on the ground using auto level (Fly Level)",
-  "exp_short_name": "exp-fly-level-iitr",
-  "version": "v0.6.0"
+  "exp_name": "Detail Plotting by Resection Method",
+  "exp_short_name": "exp-resection-method-iitr",
+  "version": "v0.7.0"
 }
