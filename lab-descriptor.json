@@ -84,7 +84,7 @@
     {
       "name": "Detail Plotting by Resection Method",
       "short-name": "exp-resection-method-iitr",
-      "repo": "https://virtual-labs.github.io/exp-resection-method-iitr/",
+      "repo": "https://github.com/virtual-labs/exp-resection-method-iitr",
       "tag": "v1.0.0",
       "deploy": true
     }
