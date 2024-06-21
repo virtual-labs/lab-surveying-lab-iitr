@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+    "code": "CIVIL"
   },
   "lab": "Surveying Lab",
   "lab_display_name": "Surveying Lab",
@@ -99,8 +100,5 @@
     "universities": [
       "The present lab is aligned with courses of Surveying Lab. These experiments are mostly covered in the curriculam."
     ]
-  },
-  "exp_name": "Detail Plotting by Resection Method",
-  "exp_short_name": "exp-resection-method-iitr",
-  "version": "v0.8.0"
+  }
 }
